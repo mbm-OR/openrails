@@ -987,7 +987,6 @@ namespace Orts.Viewer3D
         protected float LowWagonOffsetLimit;
         protected float HighWagonOffsetLimit;
         public int oldCarPosition;
-        public bool IsCameraFront;
         public override bool IsUnderground
         {
             get
